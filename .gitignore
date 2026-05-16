@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+.DS_Store
+**/.DS_Store
+
+data/raw/papers.jsonl
+data/*.npy
+data/results.csv
+data/yearly_drift.csv
+data/fig_*.png
